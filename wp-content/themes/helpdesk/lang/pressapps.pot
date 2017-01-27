@@ -1,0 +1,1266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Helpdesk\n"
+"POT-Creation-Date: 2015-01-24 21:09+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: PressApps\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:3
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr ""
+
+#: ../base-template-home.php:6 ../base.php:6
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"http://"
+"browsehappy.com/\">upgrade your browser</a> to improve your experience."
+msgstr ""
+
+#: ../category.php:5
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: ../category.php:68 ../template-knowledgebase.php:87
+#: ../templates/section-actions.php:61 ../templates/section-categories.php:58
+msgid "View all"
+msgstr ""
+
+#: ../category.php:68 ../template-knowledgebase.php:87
+#: ../templates/section-actions.php:61 ../templates/section-categories.php:58
+msgid "articles"
+msgstr ""
+
+#: ../functions.php:45
+#, php-format
+msgid "Error locating %s for inclusion"
+msgstr ""
+
+#: ../index.php:5
+msgid ""
+"There were no results for your search! Try another search or use the links "
+"in header to locate what you are looking for."
+msgstr ""
+
+#: ../lib/admin/init.php:10 ../lib/admin/init.php:390
+msgid "Analytics"
+msgstr ""
+
+#: ../lib/admin/init.php:180
+msgid "Votes"
+msgstr ""
+
+#: ../lib/admin/init.php:181
+msgid "Views"
+msgstr ""
+
+#: ../lib/admin/init.php:185
+msgid "Searches"
+msgstr ""
+
+#: ../lib/admin/init.php:192
+msgid "Most Liked"
+msgstr ""
+
+#: ../lib/admin/init.php:193
+msgid "Most Disliked"
+msgstr ""
+
+#: ../lib/admin/init.php:198
+msgid "Most Liked Articles"
+msgstr ""
+
+#: ../lib/admin/init.php:198
+msgid "Most Disliked Articles"
+msgstr ""
+
+#: ../lib/admin/init.php:219 ../lib/votes.php:213
+msgid "Likes"
+msgstr ""
+
+#: ../lib/admin/init.php:230 ../lib/votes.php:213
+msgid "Dislikes"
+msgstr ""
+
+#: ../lib/admin/init.php:249 ../lib/admin/init.php:294
+msgid "Low to High"
+msgstr ""
+
+#: ../lib/admin/init.php:250 ../lib/admin/init.php:295
+msgid "High to Low"
+msgstr ""
+
+#: ../lib/admin/init.php:255
+msgid "Article Views: Low to High"
+msgstr ""
+
+#: ../lib/admin/init.php:255
+msgid "Article Views: High to Low"
+msgstr ""
+
+#: ../lib/admin/init.php:277 ../lib/admin/init.php:331
+msgid "States"
+msgstr ""
+
+#: ../lib/admin/init.php:299
+msgid "Last 1 Day"
+msgstr ""
+
+#: ../lib/admin/init.php:300
+msgid "Last 7 Days"
+msgstr ""
+
+#: ../lib/admin/init.php:301
+msgid "Last 30 Days"
+msgstr ""
+
+#: ../lib/admin/init.php:302
+msgid "All Time"
+msgstr ""
+
+#: ../lib/admin/init.php:307
+#, php-format
+msgid "Searches: Low to High for %s"
+msgstr ""
+
+#: ../lib/admin/init.php:307
+#, php-format
+msgid "Searches: High to Low for %s"
+msgstr ""
+
+#: ../lib/admin/init.php:410
+msgid "Filter by period:"
+msgstr ""
+
+#: ../lib/admin/init.php:421
+msgid "Order:"
+msgstr ""
+
+#: ../lib/admin/init.php:437
+msgid "Sorry Sufficient Data is Not Available To generate the Graph"
+msgstr ""
+
+#: ../lib/breadcrumbs.php:28
+msgid "Home"
+msgstr ""
+
+#: ../lib/breadcrumbs.php:135 ../lib/breadcrumbs.php:150
+#: ../lib/breadcrumbs.php:164
+msgid "Archives for"
+msgstr ""
+
+#: ../lib/breadcrumbs.php:154
+msgid "You searched for"
+msgstr ""
+
+#: ../lib/breadcrumbs.php:185
+msgid "Error 404: Page not found"
+msgstr ""
+
+#: ../lib/category-icons.php:28 ../lib/category-icons.php:55
+#: ../lib/category-icons.php:140 ../lib/extensions/extensions.php:300
+#: ../lib/extensions/extensions.php:337 ../lib/extensions/extensions.php:375
+#: ../lib/extensions/extensions.php:417
+msgid "Icon"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:161
+#: ../lib/dependencies.php:61
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:162
+#: ../lib/dependencies.php:62
+msgid "Install Plugins"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:163
+#: ../lib/dependencies.php:63
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:175
+#: ../lib/dependencies.php:75
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:177
+#: ../lib/classes/class-tgm-plugin-activation.php:1945
+#: ../lib/dependencies.php:76
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:534
+#: ../lib/classes/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1290
+#: ../lib/classes/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1312
+#: ../lib/classes/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:2059
+#: ../lib/classes/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:2059
+#: ../lib/classes/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../lib/classes/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/dependencies.php:64
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../lib/dependencies.php:77
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:14
+msgid "Select main content and sidebar arrangement."
+msgstr ""
+
+#: ../lib/extensions/extensions.php:26
+msgid "Sidebar"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:52
+msgid "Reset Article Votes"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:53
+msgid "Reset votes on this article!"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:61
+msgid "Article Options"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:78 ../lib/extensions/extensions.php:501
+msgid "Categories"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:79
+msgid ""
+"Select categories to display on Knowledge Base page template (If none "
+"selected all categories will be displayed)."
+msgstr ""
+
+#: ../lib/extensions/extensions.php:84
+msgid "Columns Per Page"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:85
+msgid "Select number of knowledge base columns displayed on page."
+msgstr ""
+
+#: ../lib/extensions/extensions.php:96
+msgid "Articles Per Category"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:97
+msgid "Select number of knowledge base articles displayed per category."
+msgstr ""
+
+#: ../lib/extensions/extensions.php:119
+msgid "Knowledge Base Options"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:155
+msgid "Page Layout Options"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:165
+msgid "Hero Section"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:173 ../lib/options.php:428
+msgid "Background"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:194 ../lib/options.php:441
+msgid "Padding"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:203
+msgid "Text Color"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:214
+msgid "Subtitle"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:219 ../lib/options.php:451
+#: ../templates/searchform.php:4 ../templates/searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:220
+msgid "Display a search form in the hero section."
+msgstr ""
+
+#: ../lib/extensions/extensions.php:230
+msgid "Top Searched Terms"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:231
+msgid "Display top searched terms under the search field."
+msgstr ""
+
+#: ../lib/extensions/extensions.php:237 ../lib/extensions/extensions.php:275
+#: ../lib/extensions/extensions.php:310 ../lib/extensions/extensions.php:347
+#: ../lib/extensions/extensions.php:386 ../lib/extensions/extensions.php:428
+#: ../lib/extensions/extensions.php:458 ../lib/extensions/extensions.php:494
+msgid "Title"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:244
+msgid "Search Period"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:245
+msgid "Display top searches for a selected time period."
+msgstr ""
+
+#: ../lib/extensions/extensions.php:258
+msgid "Number of Terms"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:259
+msgid "Select how many search terms to display."
+msgstr ""
+
+#: ../lib/extensions/extensions.php:270
+msgid "Boxes Section"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:283
+msgid "Number of Boxes"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:294
+msgid "Box 1"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:318 ../lib/extensions/extensions.php:355
+#: ../lib/extensions/extensions.php:395 ../lib/extensions/extensions.php:437
+msgid "Text"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:322 ../lib/extensions/extensions.php:359
+#: ../lib/extensions/extensions.php:400 ../lib/extensions/extensions.php:442
+msgid "Url"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:331
+msgid "Box 2"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:368
+msgid "Box 3"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:410
+msgid "Box 4"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:453
+msgid "Actions Section"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:465 ../lib/post-types.php:19
+msgid "Actions"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:470
+msgid ""
+"Select actions to display in section (If none selected all actions will be "
+"displayed)."
+msgstr ""
+
+#: ../lib/extensions/extensions.php:475 ../lib/extensions/extensions.php:510
+msgid "Columns"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:476 ../lib/extensions/extensions.php:511
+msgid "Select number columns to display in section."
+msgstr ""
+
+#: ../lib/extensions/extensions.php:489
+msgid "Categories Section"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:505
+msgid ""
+"Select categories to display in section (If none selected all categories "
+"will be displayed)."
+msgstr ""
+
+#: ../lib/extensions/extensions.php:524
+msgid "CTA Section"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:531 ../lib/options.php:566
+msgid "Call To Action Content"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:539 ../lib/options.php:575
+msgid "Call To Action Background"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:550
+msgid "Sections Options"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:564
+msgid "Contact Form Email Address"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:565
+msgid ""
+"Enter the email address where want to receive emails from the contact form "
+"or leave blank to use default admin email."
+msgstr ""
+
+#: ../lib/extensions/extensions.php:572
+msgid "Contact Form Subject"
+msgstr ""
+
+#: ../lib/extensions/extensions.php:573
+msgid ""
+"Enter the subject for the contact form or leave blank to use default subject."
+msgstr ""
+
+#: ../lib/extensions/extensions.php:581
+msgid "Contact Form Options"
+msgstr ""
+
+#: ../lib/extensions/extensions/metaboxes/extension_metaboxes.php:906
+msgid "Options"
+msgstr ""
+
+#: ../lib/extensions/extensions/metaboxes/extension_metaboxes.php:1056
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../lib/extensions/extensions/metaboxes/extension_metaboxes.php:1059
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../lib/extensions/extensions/metaboxes/extension_metaboxes.php:1063
+#: ../lib/extensions/extensions/metaboxes/extension_metaboxes.php:1345
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../lib/extensions/extensions/metaboxes/extension_metaboxes.php:1066
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../lib/extensions/extensions/metaboxes/extension_metaboxes.php:1070
+msgid "Expand"
+msgstr ""
+
+#: ../lib/extensions/extensions/metaboxes/extension_metaboxes.php:1350
+msgid "warnings(s) were found!"
+msgstr ""
+
+#: ../lib/extensions/extensions/widget_areas/class.redux_widget_areas.php:86
+#: ../lib/extensions/extensions/widget_areas/class.redux_widget_areas.php:95
+msgid "Create Widget Area"
+msgstr ""
+
+#: ../lib/extensions/extensions/widget_areas/class.redux_widget_areas.php:91
+#: ../template-contact.php:91 ../templates/comments.php:56
+msgid "Name"
+msgstr ""
+
+#: ../lib/extras.php:8
+msgid "Continued"
+msgstr ""
+
+#: ../lib/init.php:11
+msgid "Primary Navigation Left"
+msgstr ""
+
+#: ../lib/init.php:12
+msgid "Primary Navigation Right"
+msgstr ""
+
+#: ../lib/init.php:13
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../lib/init.php:36
+msgid "Primary"
+msgstr ""
+
+#: ../lib/init.php:45
+msgid "Home Page"
+msgstr ""
+
+#: ../lib/init.php:54 ../lib/options.php:587
+msgid "Footer"
+msgstr ""
+
+#: ../lib/options.php:106
+msgid "Section via hook"
+msgstr ""
+
+#: ../lib/options.php:107
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../lib/options.php:187
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../lib/options.php:207
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../lib/options.php:208
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../lib/options.php:209
+msgid "Tags"
+msgstr ""
+
+#: ../lib/options.php:214
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../lib/options.php:214
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../lib/options.php:248
+msgid "General"
+msgstr ""
+
+#: ../lib/options.php:253
+msgid "Logo Upload"
+msgstr ""
+
+#: ../lib/options.php:258
+msgid "Favicon Upload"
+msgstr ""
+
+#: ../lib/options.php:261
+msgid "Google Analytics ID"
+msgstr ""
+
+#: ../lib/options.php:262
+msgid ""
+"Paste your Google Analytics ID here to enable analytics tracking. ID should "
+"be in the form of UA-XXXXX-Y."
+msgstr ""
+
+#: ../lib/options.php:270
+msgid "CSS Code"
+msgstr ""
+
+#: ../lib/options.php:271
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: ../lib/options.php:281 ../lib/options.php:489
+msgid "Layout"
+msgstr ""
+
+#: ../lib/options.php:286
+msgid "Main"
+msgstr ""
+
+#: ../lib/options.php:287
+msgid "Select main content and sidebar alignment."
+msgstr ""
+
+#: ../lib/options.php:307
+msgid "Category"
+msgstr ""
+
+#: ../lib/options.php:308
+msgid "Select category page content and sidebar alignment."
+msgstr ""
+
+#: ../lib/options.php:328
+msgid "Single"
+msgstr ""
+
+#: ../lib/options.php:329
+msgid "Select single page content and sidebar alignment."
+msgstr ""
+
+#: ../lib/options.php:349
+msgid "Subcategory Columns"
+msgstr ""
+
+#: ../lib/options.php:350
+msgid ""
+"Select number of knowledge base subcategory columns displayed on category "
+"page."
+msgstr ""
+
+#: ../lib/options.php:363
+msgid "Features"
+msgstr ""
+
+#: ../lib/options.php:368
+msgid "Reorder"
+msgstr ""
+
+#: ../lib/options.php:369
+msgid ""
+"Enable drag and drop reordering under Posts>>All Posts, Posts > Categories "
+"and Posts >> Actions."
+msgstr ""
+
+#: ../lib/options.php:375
+msgid "Search Analytics"
+msgstr ""
+
+#: ../lib/options.php:376
+msgid "Enable to save user search data for for analytics"
+msgstr ""
+
+#: ../lib/options.php:382
+msgid "Category Icons"
+msgstr ""
+
+#: ../lib/options.php:383
+msgid ""
+"Enable category icons (Assign icons to categoies under Posts >> Categories "
+"and Posts >> Actions)."
+msgstr ""
+
+#: ../lib/options.php:389
+msgid "Post Format Icons"
+msgstr ""
+
+#: ../lib/options.php:390
+msgid "Enable post format icons."
+msgstr ""
+
+#: ../lib/options.php:394
+msgid "Enable Nice Search"
+msgstr ""
+
+#: ../lib/options.php:395
+msgid "Redirects /?s=query to /search/query/, convert %20 to +."
+msgstr ""
+
+#: ../lib/options.php:405
+msgid "Navigation"
+msgstr ""
+
+#: ../lib/options.php:410
+msgid "Link Colors"
+msgstr ""
+
+#: ../lib/options.php:422
+msgid "Headline"
+msgstr ""
+
+#: ../lib/options.php:442
+msgid "Default headline top and bottom padding in px."
+msgstr ""
+
+#: ../lib/options.php:452
+msgid "Display a search form in the headline."
+msgstr ""
+
+#: ../lib/options.php:463
+msgid "Search In"
+msgstr ""
+
+#: ../lib/options.php:464
+msgid "Search in post titles only or post titles and content."
+msgstr ""
+
+#: ../lib/options.php:473
+msgid "Search Placeholder"
+msgstr ""
+
+#: ../lib/options.php:474
+msgid "Enter search field placeholder."
+msgstr ""
+
+#: ../lib/options.php:485
+msgid "Single Page"
+msgstr ""
+
+#: ../lib/options.php:504
+msgid "Print Button"
+msgstr ""
+
+#: ../lib/options.php:505
+msgid "Display print button on article page."
+msgstr ""
+
+#: ../lib/options.php:511
+msgid "Ordered List"
+msgstr ""
+
+#: ../lib/options.php:512
+msgid "Style ordered lists on single pages."
+msgstr ""
+
+#: ../lib/options.php:518
+msgid "Article Voting"
+msgstr ""
+
+#: ../lib/options.php:528
+msgid "Reset All Article Votes"
+msgstr ""
+
+#: ../lib/options.php:529
+msgid "Reset votes on all articles!"
+msgstr ""
+
+#: ../lib/options.php:539 ../templates/module-related.php:40
+msgid "Related Articles"
+msgstr ""
+
+#: ../lib/options.php:549
+msgid "Display Article Meta"
+msgstr ""
+
+#: ../lib/options.php:592
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: ../lib/options.php:602
+msgid "Sidebar Text Color"
+msgstr ""
+
+#: ../lib/options.php:611
+msgid "Footer Text"
+msgstr ""
+
+#: ../lib/options.php:620
+msgid "Bottom Top Border"
+msgstr ""
+
+#: ../lib/options.php:634
+msgid "Bottom Background Color"
+msgstr ""
+
+#: ../lib/options.php:644
+msgid "Bottom Text Color"
+msgstr ""
+
+#: ../lib/options.php:651
+msgid "Display Social Icons"
+msgstr ""
+
+#: ../lib/options.php:661
+msgid "Social Links"
+msgstr ""
+
+#: ../lib/options.php:665
+msgid "Dribbble"
+msgstr ""
+
+#: ../lib/options.php:672
+msgid "Facebook"
+msgstr ""
+
+#: ../lib/options.php:679
+msgid "Flickr"
+msgstr ""
+
+#: ../lib/options.php:686
+msgid "GitHub"
+msgstr ""
+
+#: ../lib/options.php:693
+msgid "Google+"
+msgstr ""
+
+#: ../lib/options.php:700 ../template-contact.php:94
+msgid "Email"
+msgstr ""
+
+#: ../lib/options.php:707
+msgid "LinkedIn"
+msgstr ""
+
+#: ../lib/options.php:714
+msgid "Picassa"
+msgstr ""
+
+#: ../lib/options.php:721
+msgid "Pinterest"
+msgstr ""
+
+#: ../lib/options.php:728
+msgid "RSS"
+msgstr ""
+
+#: ../lib/options.php:735
+msgid "Skype"
+msgstr ""
+
+#: ../lib/options.php:742
+msgid "SoundCloud"
+msgstr ""
+
+#: ../lib/options.php:749
+msgid "Stack Overflow"
+msgstr ""
+
+#: ../lib/options.php:756
+msgid "Twitter"
+msgstr ""
+
+#: ../lib/options.php:763
+msgid "Vimeo"
+msgstr ""
+
+#: ../lib/options.php:770
+msgid "WordPress"
+msgstr ""
+
+#: ../lib/options.php:788
+msgid "Typography"
+msgstr ""
+
+#: ../lib/options.php:793
+msgid "Heading Font"
+msgstr ""
+
+#: ../lib/options.php:809
+msgid "Body Font"
+msgstr ""
+
+#: ../lib/options.php:828
+msgid "Colors"
+msgstr ""
+
+#: ../lib/options.php:833
+msgid "Primary Color"
+msgstr ""
+
+#: ../lib/options.php:834
+msgid "Select main content link colors."
+msgstr ""
+
+#: ../lib/options.php:845
+msgid "Secondary Color"
+msgstr ""
+
+#: ../lib/options.php:846
+msgid ""
+"Select secondary font color (Applies to article summaries, comments and "
+"sidebar."
+msgstr ""
+
+#: ../lib/options.php:856
+msgid "Import / Export"
+msgstr ""
+
+#: ../lib/options.php:857
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../lib/options.php:928 ../lib/options.php:929
+msgid "Theme Options"
+msgstr ""
+
+#: ../lib/options.php:1029
+msgid "Documentation"
+msgstr ""
+
+#: ../lib/options.php:1035
+msgid "Support"
+msgstr ""
+
+#: ../lib/options.php:1041
+msgid "Extensions"
+msgstr ""
+
+#: ../lib/post-types.php:11
+msgid "Search Actions"
+msgstr ""
+
+#: ../lib/post-types.php:12
+msgid "All Actions"
+msgstr ""
+
+#: ../lib/post-types.php:13
+msgid "Parent Action"
+msgstr ""
+
+#: ../lib/post-types.php:14
+msgid "Parent Action:"
+msgstr ""
+
+#: ../lib/post-types.php:15
+msgid "Edit Action"
+msgstr ""
+
+#: ../lib/post-types.php:16
+msgid "Update Action"
+msgstr ""
+
+#: ../lib/post-types.php:17
+msgid "Add New Action"
+msgstr ""
+
+#: ../lib/post-types.php:18
+msgid "New Action Name"
+msgstr ""
+
+#: ../lib/titles.php:10
+msgid "Latest Posts"
+msgstr ""
+
+#: ../lib/titles.php:19
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../lib/titles.php:21
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../lib/titles.php:23
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../lib/titles.php:26
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../lib/titles.php:31
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: ../lib/titles.php:33
+msgid "Not Found"
+msgstr ""
+
+#: ../lib/votes.php:41
+msgid "Was this article helpful to you?"
+msgstr ""
+
+#: ../lib/votes.php:47
+msgid "Thank you for your feedback!"
+msgstr ""
+
+#: ../lib/votes.php:52
+msgid "Login to leave your feedback!"
+msgstr ""
+
+#: ../lib/widgets.php:34
+msgid "Use this widget to add contact details"
+msgstr ""
+
+#: ../lib/widgets.php:36
+msgid "Helpdesk Contact"
+msgstr ""
+
+#: ../lib/widgets.php:63
+msgid "Contact"
+msgstr ""
+
+#: ../lib/widgets.php:282
+msgid "Display a list of recent article entries from one or more categories."
+msgstr ""
+
+#: ../lib/widgets.php:284
+msgid "Helpdesk Recent Posts"
+msgstr ""
+
+#: ../lib/widgets.php:375
+msgid "Title:"
+msgstr ""
+
+#: ../lib/widgets.php:380
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../lib/widgets.php:385
+msgid "Select categories to include in the recent posts list:"
+msgstr ""
+
+#: ../template-contact.php:78
+msgid "Thank you, your email was sent successfully."
+msgstr ""
+
+#: ../template-contact.php:84
+msgid "Please fill in all the fields correctly."
+msgstr ""
+
+#: ../template-contact.php:97
+msgid "Message"
+msgstr ""
+
+#: ../template-contact.php:101
+msgid "Send Email"
+msgstr ""
+
+#: ../templates/comments.php:14
+#, php-format
+msgid "Comments on %s"
+msgstr ""
+
+#: ../templates/comments.php:17
+msgid "Reply"
+msgstr ""
+
+#: ../templates/comments.php:24
+msgid "&larr; Older comments"
+msgstr ""
+
+#: ../templates/comments.php:27
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: ../templates/comments.php:36
+msgid "Comments are closed."
+msgstr ""
+
+#: ../templates/comments.php:43
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../templates/comments.php:43
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../templates/comments.php:46
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../templates/comments.php:51
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr ""
+
+#: ../templates/comments.php:52
+msgid "Log out of this account"
+msgstr ""
+
+#: ../templates/comments.php:52
+msgid "Log out &raquo;"
+msgstr ""
+
+#: ../templates/comments.php:56 ../templates/comments.php:60
+msgid " (required)"
+msgstr ""
+
+#: ../templates/comments.php:60
+msgid "Email (will not be published)"
+msgstr ""
+
+#: ../templates/comments.php:64
+msgid "Website"
+msgstr ""
+
+#: ../templates/comments.php:69
+msgid "Comment"
+msgstr ""
+
+#: ../templates/comments.php:72
+msgid "Submit Comment"
+msgstr ""
+
+#: ../templates/content-single.php:5
+msgid "Print this Article"
+msgstr ""
+
+#: ../templates/entry-meta.php:4
+msgid "Last Updated:"
+msgstr ""
+
+#: ../templates/entry-meta.php:7
+msgid "By"
+msgstr ""
+
+#: ../templates/searchform.php:2
+msgid "Search for:"
+msgstr ""

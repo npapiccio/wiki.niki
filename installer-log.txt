@@ -1,0 +1,168 @@
+********************************************************************************
+DUPLICATOR-LITE INSTALL-LOG
+STEP1 START @ 02:30:34
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+VERSION:	1.1.28
+PHP:		5.6.18 | SAPI: apache2handler
+SERVER:		Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/5.6.18
+DOC ROOT:	C:/_WWW/wiki.papiccio/www
+DOC ROOT 755:	true
+LOG FILE 644:	true
+BUILD NAME:	20160925_nikiwiki_588aab5926efb5973170127020721
+REQUEST URL:	http://localhost/installer.php
+
+********************************************************************************
+ARCHIVE SETUP
+********************************************************************************
+NAME:	20160925_nikiwiki_588aab5926efb5973170127020721_archive.zip
+SIZE:	53.18MB
+ZIP:	Enabled (ZipArchive Support)
+EXTRACTING
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4300
+    [filename] => C:\_WWW\wiki.papiccio\www\20160925_nikiwiki_588aab5926efb5973170127020721_archive.zip
+    [comment] => 
+)
+COMPLETE: true
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to *.170127023051.orig
+- Reset of .htaccess/web.config files
+
+UPDATED FILES:
+- SQL FILE:  'C:/_WWW/wiki.papiccio/www/installer-data.sql'
+- WP-CONFIG: 'C:/_WWW/wiki.papiccio/www/wp-config.php' (if present)
+
+ARCHIVE RUNTIME: 16.8151 sec.
+
+
+********************************************************************************
+DATABASE-ROUTINES
+********************************************************************************
+--------------------------------------
+SERVER ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.7.11 -- Build Server: 5.5.50
+TIMEOUT:	5000
+MAXPACK:	4194304
+SQLMODE:	STRICT_TRANS_TABLES,NO_ENGINE_SUBSTITUTION
+
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4300
+    [filename] => C:\_WWW\wiki.papiccio\www\20160925_nikiwiki_588aab5926efb5973170127020721_archive.zip
+    [comment] => 
+)
+COMPLETE: true
+
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+**ERROR** database error write 'Incorrect string value: '\xF0\x9F\x98\x8A" ...' for column 'option_value' at row 1' - [sql=INSERT INTO `wp_options` VALUES("1923", "_transient_feed_ac0b00fe65abe10e0c...]
+**ERROR** database error write 'Incorrect string value: '\xF0\x9F\x98\x80" ...' for column 'option_value' at row 1' - [sql=INSERT INTO `wp_options` VALUES("1927", "_transient_feed_d117b5738fbd35bd8c...]
+ERRORS FOUND:	2
+DROP TABLE:	
+QUERIES RAN:	964
+
+wp_commentmeta: (2)
+wp_comments: (4)
+wp_cpm_file_relationship: (0)
+wp_cpm_project_items: (0)
+wp_cpm_tasks: (0)
+wp_cpm_user_role: (1)
+wp_duplicator_packages: (4)
+wp_eg_attachments_clicks: (0)
+wp_links: (0)
+wp_options: (262)
+wp_postmeta: (236)
+wp_posts: (101)
+wp_term_relationships: (143)
+wp_term_taxonomy: (78)
+wp_termmeta: (0)
+wp_terms: (78)
+wp_usermeta: (34)
+wp_users: (1)
+Removed '39' cache/transient rows
+
+SECTION RUNTIME: 0.5312 sec.
+
+********************************************************************************
+STEP1 COMPLETE @ 02:30:52 - TOTAL RUNTIME: 17.3616 sec.
+********************************************************************************
+
+
+
+********************************************************************************
+DUPLICATOR-LITE INSTALL-LOG
+STEP2 START @ 02:33:18
+NOTICE: Do not post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	 utf8 
+
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+wp_commentmeta~ (2)
+wp_comments~ (4)
+wp_cpm_file_relationship^ (0)
+wp_cpm_project_items^ (0)
+wp_cpm_tasks^ (0)
+wp_cpm_user_role~ (1)
+wp_duplicator_packages^ (0)
+wp_eg_attachments_clicks^ (0)
+wp_links^ (0)
+wp_options~ (224)
+wp_postmeta~ (236)
+wp_posts~ (101)
+wp_term_relationships~ (143)
+wp_term_taxonomy~ (78)
+wp_termmeta^ (0)
+wp_terms~ (78)
+wp_usermeta~ (34)
+wp_users~ (1)
+--------------------------------------
+Search1:	'http://wiki.papiccio.ca/wordpress' 
+Change1:	'http://localhost' 
+Search2:	'/homepages/10/d525065257/htdocs/wiki/wordpress' 
+Change2:	'C:/_WWW/wiki.papiccio/www' 
+Search3:	'http:\/\/wiki.papiccio.ca\/wordpress' 
+Change3:	'http:\/\/localhost' 
+Search4:	'\/homepages\/10\/d525065257\/htdocs\/wiki\/wordpress' 
+Change4:	'C:\/_WWW\/wiki.papiccio\/www' 
+Search5:	'%2Fhomepages%2F10%2Fd525065257%2Fhtdocs%2Fwiki%2Fwordpress%2F' 
+Change5:	'C%3A%2F_WWW%2Fwiki.papiccio%2Fwww%2F' 
+Search6:	'http%3A%2F%2Fwiki.papiccio.ca%2Fwordpress' 
+Change6:	'http%3A%2F%2Flocalhost' 
+Search7:	'\homepages\10\d525065257\htdocs\wiki\wordpress' 
+Change7:	'C:/_WWW/wiki.papiccio/www' 
+SCANNED:	Tables:18 	|	 Rows:902 	|	 Cells:5591 
+UPDATED:	Tables:1 	|	 Rows:109 	|	 Cells:116 
+ERRORS:		0 
+RUNTIME:	0.354000 sec
+
+********************************************************************************
+START FINAL CLEANUP: 02:33:19
+********************************************************************************
+UPDATE `wp_blogs` SET domain = 'localhost' WHERE domain = 'wiki.papiccio.ca'
+
+--------------------------------------
+NOTICES
+--------------------------------------
+No Notices Found
+
+
+WEB SERVER CONFIGURATION FILE BASIC SETUP:
+created basic .htaccess file.  If using IIS web.config this process will need to be done manually.
+********************************************************************************
+STEP 2 COMPLETE @ 02:33:19 - TOTAL RUNTIME: 0.3762 sec.
+********************************************************************************

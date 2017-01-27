@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+root {
+  display: block; }
+
+#the-list tr {
+  cursor: move; }
+
+.fixed .column-likes, .fixed .column-dislikes, .fixed .column-reset {
+  width: 10%; }
